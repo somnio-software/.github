@@ -1,6 +1,6 @@
 # Welcome to the Somnio Software GitHub page! 🚀
 
-![Somnio Software Logo](https://i.ibb.co/YhnTbcw/logo-somnio-rgb-color.png)
+![Somnio Software Logo](https://i.ibb.co/dmdFsMq/logo-somnio-rgb-color-1.png")
 
 We are the first & only 100% Flutter-focused Software Development Company in LATAM 🌎 born to design, build and scale world-class software applications 🚀
 
