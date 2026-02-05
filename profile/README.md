@@ -2,9 +2,8 @@
 
 ![Somnio Software Logo](https://i.ibb.co/g6dbR66/logo-somnio-rgb-color-1-2.png)
 
-We are the first & only 100% Flutter-focused Software Development Company in LATAM 🌎 born to design, build and scale world-class software applications 🚀
+We’re a Digital Product Agency helping businesses grow by turning ideas into high-quality digital products, globally recognized as a Top Flutter development company 🌎 with deep expertise across modern technologies 🚀
 
-We aim to share our Flutter knowledge and expertise by sharing open-source tools to help everyone!
 
 ### 💼 [Our work](https://somniosoftware.com/our-work)
 
