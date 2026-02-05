@@ -12,5 +12,5 @@ We’re a Digital Product Agency helping businesses grow by turning ideas into h
 ### ✍️ Take a look at [our blog](https://somniosoftware.com/blog) 
 We talk about Flutter, software development processes, and more!
 
-### 🇺🇾 Organizers of the [Flutter Uruguay Meetup Group](https://www.meetup.com/flutter-montevideo/)
+### Organizers of the [Flutter Uruguay Meetup Group](https://www.meetup.com/flutter-montevideo/) 🇺🇾 and [Flutter Buenos Aires Meetup Group](https://www.meetup.com/flutter-buenos-aires/) 🇦🇷
 A space created to help the Flutter Community 💙 grow in Latin America and in the world. Everyone is welcome to join!
